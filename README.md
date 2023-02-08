@@ -23,6 +23,11 @@ My name is Hieu Nguyen. I am an Front End Developer. I have knowledge of HTML, C
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HieuNguyenDev&repo=thuc-tap-du-an-h-furniture&theme=gruvbox" />
 </a>    
 
+<a href="https://github.com/HieuNguyenDev/Music-Player">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HieuNguyenDev&repo=Music-Player&theme=radical" />
+</a>
+
 <a href="https://github.com/HieuNguyenDev/angular-ASM/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HieuNguyenDev&repo=angular-ASM&theme=radical" />
